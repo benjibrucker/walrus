@@ -4,6 +4,7 @@
   border-width: 1px;
   background-color: orange;
   margin-bottom: 10px;
+  box-sizing: border-box;
 }
 
 .box2 {
@@ -13,6 +14,7 @@
   border-width: 20px;
   background-color: orange;
   margin-bottom: 10px;
+  box-sizing: border-box;
 }
  
 .box3{
@@ -21,5 +23,6 @@
   border: solid black;
   border-width: 30px;
   background-color: orange;
-  margin-bottom:10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
